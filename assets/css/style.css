@@ -1,0 +1,100 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    color:black;
+}
+
+.titulo-logo {
+    font-family: 'Lobster', cursive;
+    font-size: 37px;
+}
+
+.card-body {
+    justify-content: right;
+    text-align: right;
+}
+
+.cards-list div {
+    padding: 0px 10px 0px 10px;
+    color: white;
+}
+
+.img-src {
+  margin: 75px;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+hr {
+    border-top: 2px solid black;
+    margin-top: 0px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #373A3C;
+}
+
+.carousel-indicators {
+    position: initial;
+}
+
+.carousel-img img {
+    width: 100%;
+}
+
+.lista-ingredientes li {
+    font-size: 20px;
+    list-style: none;
+}
+
+h2 {
+    color: #373A3C;
+    font-size: 40px;
+}
+
+.card-body1 h5 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+    color:#373A3C ;
+}
+
+.card-body2 h5 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+    color: #373A3C;
+}
+
+.card-body3 h5 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+    color: #373A3C;
+}
+
+.suscribete {
+    background: #DC3545;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+
+footer {
+    text-align: center;
+    background-color: #373A3C;
+}
+
+.titulo-footer {
+    font-family: 'Lobster', cursive;
+    font-size: 37px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
