@@ -11,5 +11,6 @@ $('#enviarCorreo').on('click', function() {
 })
 
 $('.card-title').on('click', function() {
-    $('.card').toggle('slow');
+    $('.card-img-top').toggle('slow');
+    $('.card-text').toggle('slow');
 })
